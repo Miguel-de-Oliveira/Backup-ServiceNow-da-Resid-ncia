@@ -32,6 +32,5 @@
                 <element inactive_on_update="false" label="Manhã" sequence="1" value="manha"/>
             </choice>
         </element>
-        <element display="true" label="Nome" max_length="100" name="nome" type="string"/>
     </element>
 </database>
