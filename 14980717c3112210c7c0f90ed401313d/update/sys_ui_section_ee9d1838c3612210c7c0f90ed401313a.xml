@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="ee9d1838c3612210c7c0f90ed401313a" sys_domain="global" table="sys_dictionary" version="3" view="unit">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>ea9dd438c3612210c7c0f90ed4013125</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <text>Dictionary Form Description</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ea9dd438c3612210c7c0f90ed4013125</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>6a9d1838c3612210c7c0f90ed401313b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>ee9d1838c3612210c7c0f90ed401313b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>669d1838c3612210c7c0f90ed401313c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>internal_type</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>ea9d1838c3612210c7c0f90ed401313c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>column_label</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>629d1838c3612210c7c0f90ed401313d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>element</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>e69d1838c3612210c7c0f90ed401313d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>max_length</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>6e9d1838c3612210c7c0f90ed401313d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>e29d1838c3612210c7c0f90ed401313e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>6a9d1838c3612210c7c0f90ed401313e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>ee9d1838c3612210c7c0f90ed401313e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>function_field</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>669d1838c3612210c7c0f90ed401313f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>read_only</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>ea9d1838c3612210c7c0f90ed401313f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mandatory</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>629d1838c3612210c7c0f90ed4013140</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>e69d1838c3612210c7c0f90ed4013140</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>text_index</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>6e9d1838c3612210c7c0f90ed4013140</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>audit</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_id>e29d1838c3612210c7c0f90ed4013141</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_dictionary" sys_domain="global" view="946e8f9bc3112210c7c0f90ed401318b">ee9d1838c3612210c7c0f90ed401313a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_dictionary</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 20:28:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee9d1838c3612210c7c0f90ed401313a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_dictionary</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="UNIT" source="x_1649844_unit">14980717c3112210c7c0f90ed401313d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UNIT">14980717c3112210c7c0f90ed401313d</sys_scope>
+            <sys_update_name>sys_ui_section_ee9d1838c3612210c7c0f90ed401313a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 20:28:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="UNIT" name="unit">946e8f9bc3112210c7c0f90ed401318b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

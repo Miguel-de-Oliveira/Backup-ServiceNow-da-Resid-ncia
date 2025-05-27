@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="39fe1e14c3212210c7c0f90ed40131d5" label="Cadeiras" max_length="40" name="x_1649844_unit_cadeiras" type="collection">
+        <element label="Professor" max_length="32" name="professor" reference="x_1649844_unit_professores" type="reference"/>
+        <element display="true" label="Nome da cadeira" max_length="40" name="nome_da_cadeira" type="string"/>
+        <element choice="3" label="Período" max_length="40" name="periodo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Oitavo" value="08"/>
+                <element inactive_on_update="false" label="Décimo" value="10"/>
+                <element inactive_on_update="false" label="Terceiro" value="03"/>
+                <element inactive_on_update="false" label="Quarto" value="04"/>
+                <element inactive_on_update="false" label="Segundo" value="02"/>
+                <element inactive_on_update="false" label="Sétimo" value="07"/>
+                <element inactive_on_update="false" label="Sexto" value="06"/>
+                <element inactive_on_update="false" label="Quinto" value="05"/>
+                <element inactive_on_update="false" label="Primeiro" value="01"/>
+                <element inactive_on_update="false" label="Nono" value="09"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="professor"/>
+        </index>
+    </element>
+</database>

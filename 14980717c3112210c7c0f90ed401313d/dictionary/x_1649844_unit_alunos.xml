@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c9fe435fc3112210c7c0f90ed4013194" extends="sys_user" label="Alunos" max_length="40" name="x_1649844_unit_alunos" type="collection">
+        <element label="Ativo" max_length="40" name="ativo" type="boolean"/>
+        <element label="Data de Formação" max_length="40" name="data_de_formacao" type="glide_date"/>
+        <element choice="1" label="Ênfase" max_length="40" name="enfase" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Desenvolvimento Web" value="Desenvolvimento Web"/>
+                <element inactive_on_update="false" label="Data Science" value="Data Science"/>
+                <element inactive_on_update="false" label="Desenvolvimento BackEnd" value="Desenvolvimento BackEnd"/>
+            </choice>
+        </element>
+        <element label="Data de Matrícula" max_length="40" name="data_de_matricula" type="glide_date"/>
+        <element label="Data de Nascimento" max_length="40" name="data_de_nascimento" type="glide_date"/>
+        <element choice="1" label="Período" max_length="40" name="periodo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Oitavo" value="Oitavo"/>
+                <element inactive_on_update="false" label="Quinto" value="Quinto"/>
+                <element inactive_on_update="false" label="Sexto" value="Sexto"/>
+                <element inactive_on_update="false" label="Primeiro" value="Primeiro"/>
+                <element inactive_on_update="false" label="Sétimo" value="Sétimo"/>
+                <element inactive_on_update="false" label="Terceiro" value="Terceiro"/>
+                <element inactive_on_update="false" label="Quarto" value="Quarto"/>
+                <element inactive_on_update="false" label="Décimo" value="Décimo"/>
+                <element inactive_on_update="false" label="Nono" value="Nono"/>
+                <element inactive_on_update="false" label="Segundo" value="Segundo"/>
+            </choice>
+        </element>
+        <element choice="1" label="Turno" max_length="40" name="turno" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Noite" sequence="3" value="noite"/>
+                <element inactive_on_update="false" label="Tarde" sequence="2" value="tarde"/>
+                <element inactive_on_update="false" label="Manhã" sequence="1" value="manha"/>
+            </choice>
+        </element>
+        <element display="true" label="Nome" max_length="100" name="nome" type="string"/>
+    </element>
+</database>
