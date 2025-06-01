@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_read_mtom">
+    <kb_uc_can_read_mtom action="DELETE">
+        <kb_knowledge_base display_value="Secretaria V. p/ Professores">6dbfea75c3b12210c7c0f90ed4013125</kb_knowledge_base>
+        <sys_class_name>kb_uc_can_read_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 19:58:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c02072b5c3b12210c7c0f90ed4013107</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Secretaria V. p/ Professores.Apenas para Professores</sys_name>
+        <sys_package display_value="UNIT" source="x_1649844_unit">14980717c3112210c7c0f90ed401313d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">14980717c3112210c7c0f90ed401313d</sys_scope>
+        <sys_update_name>kb_uc_can_read_mtom_c02072b5c3b12210c7c0f90ed4013107</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 19:58:45</sys_updated_on>
+        <user_criteria display_value="Apenas para Professores">edf2c734c3f52210c7c0f90ed40131b7</user_criteria>
+    </kb_uc_can_read_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">14980717c3112210c7c0f90ed401313d</application>
+        <file_path/>
+        <instance_id>e4ea5a1c3b77ca18c55a348aa4e45af0</instance_id>
+        <instance_name>dev283985</instance_name>
+        <name>kb_uc_can_read_mtom_c02072b5c3b12210c7c0f90ed4013107</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_read_mtom"><kb_uc_can_read_mtom action="INSERT_OR_UPDATE"><kb_knowledge_base display_value="Secretaria V. p/ Professores">6dbfea75c3b12210c7c0f90ed4013125</kb_knowledge_base><sys_class_name>kb_uc_can_read_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-29 19:58:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c02072b5c3b12210c7c0f90ed4013107</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Secretaria V. p/ Professores.Apenas para Professores</sys_name><sys_package display_value="UNIT" source="x_1649844_unit">14980717c3112210c7c0f90ed401313d</sys_package><sys_policy/><sys_scope display_value="UNIT">14980717c3112210c7c0f90ed401313d</sys_scope><sys_update_name>kb_uc_can_read_mtom_c02072b5c3b12210c7c0f90ed4013107</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-29 19:58:45</sys_updated_on><user_criteria display_value="Apenas para Professores">edf2c734c3f52210c7c0f90ed40131b7</user_criteria></kb_uc_can_read_mtom></record_update>]]></payload>
+        <payload_hash>-1601617710</payload_hash>
+        <record_name>Secretaria V. p/ Professores.Apenas para Professores</record_name>
+        <reverted_from/>
+        <source>b5632c45c3bd2210c7c0f90ed4013152</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 19:58:45</sys_created_on>
+        <sys_id>402072b5c3b12210c7c0f90ed401310a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1971da02af30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 19:58:45</sys_updated_on>
+        <type>Who Can Read Knowledge Base</type>
+        <update_guid>442072b54eb12210f6690a8e05b0de09</update_guid>
+        <update_guid_history>442072b54eb12210f6690a8e05b0de09:-1601617710</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Secretaria V. p/ Professores.Apenas para Professores">42c076f5c3b12210c7c0f90ed4013111</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 20:01:37</sys_created_on>
+        <sys_db_object display_value="" name="kb_uc_can_read_mtom">kb_uc_can_read_mtom</sys_db_object>
+        <sys_id>469d762c82404ce89d7f5b11730985a4</sys_id>
+        <sys_metadata>c02072b5c3b12210c7c0f90ed4013107</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Secretaria V. p/ Professores.Apenas para Professores</sys_name>
+        <sys_package display_value="UNIT" source="x_1649844_unit">14980717c3112210c7c0f90ed401313d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">14980717c3112210c7c0f90ed401313d</sys_scope>
+        <sys_scope_delete display_value="">1501302c5fce44838a5f946fa855a409</sys_scope_delete>
+        <sys_update_name>kb_uc_can_read_mtom_c02072b5c3b12210c7c0f90ed4013107</sys_update_name>
+        <sys_update_version display_value="kb_uc_can_read_mtom_c02072b5c3b12210c7c0f90ed4013107">402072b5c3b12210c7c0f90ed401310a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 20:01:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

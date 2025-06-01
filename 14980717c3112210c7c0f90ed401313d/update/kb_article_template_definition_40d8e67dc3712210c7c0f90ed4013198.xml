@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_article_template_definition">
     <kb_article_template_definition action="INSERT_OR_UPDATE">
         <active>true</active>
-        <article_template display_value="Template Plano de Aula">68981ab0c3352210c7c0f90ed4013165</article_template>
+        <article_template display_value="Template da Secretaria Virtual">1938ea3dc3712210c7c0f90ed40131e5</article_template>
         <collapsible/>
-        <column_label>Conteúdo</column_label>
+        <column_label>Responsáveis pelo processo</column_label>
         <column_type>string</column_type>
         <field_style/>
         <heading_style/>
         <mandatory>true</mandatory>
-        <order>300</order>
-        <preview_text><![CDATA[<p>Defina aqui o conteúdo</p>]]></preview_text>
+        <order>100</order>
+        <preview_text><![CDATA[<p>Defina aqui o Responsáveis pelo processo</p>]]></preview_text>
         <sys_class_name>kb_article_template_definition</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-26 17:55:11</sys_created_on>
+        <sys_created_on>2025-05-29 19:27:38</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_id>cdf6b2b4c3b52210c7c0f90ed401316a</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Conteúdo</sys_name>
+        <sys_id>40d8e67dc3712210c7c0f90ed4013198</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Responsáveis pelo processo</sys_name>
         <sys_package display_value="UNIT" source="x_1649844_unit">14980717c3112210c7c0f90ed401313d</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">14980717c3112210c7c0f90ed401313d</sys_scope>
-        <sys_update_name>kb_article_template_definition_cdf6b2b4c3b52210c7c0f90ed401316a</sys_update_name>
+        <sys_update_name>kb_article_template_definition_40d8e67dc3712210c7c0f90ed4013198</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-29 20:05:32</sys_updated_on>
-        <table_column>x_1649844_unit_u_kb_conte_do</table_column>
+        <sys_updated_on>2025-05-29 20:06:24</sys_updated_on>
+        <table_column>x_1649844_unit_u_kb_respons_veis_pelo_processo</table_column>
     </kb_article_template_definition>
 </record_update>
